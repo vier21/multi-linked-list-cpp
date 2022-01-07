@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1640831813 source:d:\uni\tugas\tugas strukdat\tubes slur\tubes_std_kel13\main.cpp
+	"pawang.h"
+
+1641044427 d:\uni\tugas\tugas strukdat\tubes slur\tubes_std_kel13\pawang.h
+	<iostream>
+
+1641146104 source:d:\uni\tugas\tugas strukdat\tubes slur\tubes_std_kel13\pawang.cpp
+	"pawang.h"
+
